@@ -30,7 +30,7 @@ from pyrogram import (
 ownerID = int("1488114134") 
 api_hash = "43cb89a7b70782868b77ace21c1341a9" 
 api_id = 8897410 
-token = "5419347139:AAGX5BFEKRegNhGbug2mr0qP5nyBve92kqY" 
+token = "5172540356:AAGp-9mUyxjXYCm-T4FKtrHqXInX64sowuE" 
 
 
 bot = Client(
